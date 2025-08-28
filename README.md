@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Singh</h1>
-<h3 align="center">A 3rd Year Student @SRMIST, Learning...</h3>
+<h3 align="center">A 4th Year Student @SRMIST, Learning...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshsingh1s&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshsingh1s" /> </p>
 
